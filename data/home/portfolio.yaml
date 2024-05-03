@@ -9,7 +9,7 @@ content:
 
     buttons: 
       - label: "See live"
-        url: "#"
+        url: "qtApp/appSharkAttack.html"
 
   - image: "images/screen2.jpg"
     pretitle: ""
@@ -18,6 +18,6 @@ content:
 
     buttons: 
       - label: "See live"
-        url: "#"
+        url: "qtApp/appSharkAttack.html"
 
 

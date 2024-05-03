@@ -7,7 +7,7 @@ content:
 
   buttonPrimary:
     label: "Try it out!"
-    url: "#"
+    url: "qtApp/appSharkAttack.html"
 
   buttonSecondary:
     label: "Check the repo."
