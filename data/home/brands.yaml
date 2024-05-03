@@ -1,0 +1,9 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "Technologies used"
+  items:
+    - "images/Qt_logo.png"
+    - "images/C++_logo.png"
+    - "images/Cmake.png"

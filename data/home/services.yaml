@@ -1,0 +1,41 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Skills Practiced"
+  text: "Meteo allowed me to practice the following skills"
+  cards:
+    - image: "images/layouts.png"
+      title: "QtQuick layouts"
+      text: "Use Qt Quick Layouts to arrange items in a user interface. Qt Quick Layouts resize their items, which makes them well suited for resizable user interfaces."
+      button:
+        label: "Learn more"
+        url: "https://doc.qt.io/qt-6/qtquicklayouts-overview.html"
+
+    - image: "images/controls.png"
+      title: "QtQuick Controls"
+      text: "Qt Quick Controls provides a set of controls that can be used to build complete interfaces in Qt Quick. The module was introduced in Qt 5.7."
+      button:
+        label: "Learn more"
+        url: "https://doc.qt.io/qt-6/qtquickcontrols-index.html"
+
+    - image: "images/bindings.png"
+      title: "Qml Bindings"
+      text: "Property bindings are a core feature of QML that lets developers specify relationships between different object properties. When a property's dependencies change in value, the property is automatically updated according to the specified relationship."
+      button:
+        label: "Learn more"
+        url: "https://doc.qt.io/qt-6/qml-qtqml-binding.html"
+
+    - image: "images/interfacing.png"
+      title: "Qml and C++ interfacing"
+      text: "QML can easily be extended with functionality defined in C++ code. Due to the tight integration of the QML engine with the Qt meta-object system."
+      button:
+        label: "Learn more"
+        url: "https://doc.qt.io/qt-6/qtqml-cppintegration-exposecppattributes.html"
+
+    - image: "images/ccmake.png"
+      title: "CMake"
+      text: "CMake is a tool to simplify the build process for development projects across different platforms. CMake automatically generates build systems."
+      button:
+        label: "Learn more"
+        url: "https://doc.qt.io/qt-6/cmake-manual.html"

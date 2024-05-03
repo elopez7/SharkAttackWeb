@@ -1,0 +1,42 @@
+baseURL: "https://qsharkattack.netlify.app/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Shark Attack"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Shark Attack"
+  description: "Made with pride in Qt."
+  images: 
+    - "/images/hero-image.jpg"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  copyright: "© 2024 Esteban Lopez All Rights Reserved"
+
+menus:
+  buttons:
+    - name: "My Portfolio"
+      url: "https://estebanlopezp.com/"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+
+taxonomies:
+  series: "series"
+  tags: "tags"

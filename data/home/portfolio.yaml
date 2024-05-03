@@ -1,0 +1,23 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/screen1.jpg"
+    pretitle: ""
+    title: "Built in Dark Theme"
+    text: "With the flip of a switch, you can make it more comfortable to the eyes!"
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+  - image: "images/screen2.jpg"
+    pretitle: ""
+    title: "Cross Platform"
+    text: "Runs in Desktop and WebAssembly"
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+

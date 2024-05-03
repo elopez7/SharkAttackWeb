@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Shark Attack a **Qt** application"
+  text: "Create a Qt application that calculates monthly loan payment and interest."
+
+  buttonPrimary:
+    label: "Try it out!"
+    url: "#"
+
+  buttonSecondary:
+    label: "Check the repo."
+    url: "https://github.com/elopez7/SharkAttack"
+
